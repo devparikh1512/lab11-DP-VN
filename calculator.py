@@ -1,3 +1,6 @@
+# https://github.com/devparikh1512/lab11-DP-VN
+# Partner 1: Dev Parikh
+# Partner 2: Vishal Naveen
 """
 calculator.py
 - Defines functions used to create a simple calculator
